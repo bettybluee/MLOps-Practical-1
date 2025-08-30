@@ -4,3 +4,6 @@ Author: Betty Kim
 ## About this Repo
 This is my first GitHub repository for the MLOps practical session.
 ## Edited on GitHub Web
+## About Me
+Hi, I’m Betty.
+I’m learning how to use GitHub Issues.
