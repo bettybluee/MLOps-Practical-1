@@ -7,4 +7,3 @@ This is my first GitHub repository for the MLOps practical session.
 ## About Me
 Hi, I’m Betty.
 I’m learning how to use GitHub Issues.
-Add About Me section to README (closes #1)
