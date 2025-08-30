@@ -1,3 +1,5 @@
 # MLOps Practical 1
 This is my first GitHub repository for the Reproducibility & Model Deployment course.  
 Author: Betty Kim
+## About this Repo
+This is my first GitHub repository for the MLOps practical session.
