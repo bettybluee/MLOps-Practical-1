@@ -119,4 +119,3 @@ Next steps:
 📚 Tilburg University – MSc Data Science (Pre-master)
 🗓️ Week 1: Git
 🔗 [GitHub Profile](https://github.com/bettybluee)
-```
