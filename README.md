@@ -48,8 +48,8 @@ git push
 
 ```
 MLOps-Practical-1/
-├── README.md          # Week 1 practice
-└── .gitignore         # Ignore unnecessary local files
+├── .gitignore         # Ignore unnecessary local files
+└── README.md          # Documentation for Week 1 exercises
 ```
 
 ---
