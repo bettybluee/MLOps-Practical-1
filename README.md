@@ -116,6 +116,6 @@ Next steps:
 ## 👩‍💻 Author
 
 **Betty Kim**  
-📚 Tilburg University – MSc Data Science  
+📚 Tilburg University – MSc Data Science and Society  
 🗓️ Week 1: Git  
 🔗 [GitHub Profile](https://github.com/bettybluee)
